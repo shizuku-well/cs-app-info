@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.0.0",
+  "update_url": "https://github.com/xiaobaideq/cs-app-info/releases",
+  "release_notes": "初始版本发布\n- 基础注入功能\n- 权限管理\n- 设置页面",
+  "force_update": false
+}
